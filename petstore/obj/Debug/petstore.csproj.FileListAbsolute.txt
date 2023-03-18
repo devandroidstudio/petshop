@@ -1,0 +1,111 @@
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\petstore.dll.config
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\petstore.dll
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\petstore.pdb
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\CKFinder.dll
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\PagedList.dll
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\PagedList.Mvc.dll
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\System.Web.Razor.dll
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\WebGrease.dll
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\CKFinder.pdb
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\PagedList.xml
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\PagedList.Mvc.xml
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\System.Web.Razor.xml
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\obj\Debug\petstore.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\obj\Debug\petstore.dll
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\obj\Debug\petstore.pdb
+C:\Users\Administrator\Downloads\final\New folder\petstoretest\petstore\petstore\obj\Debug\petstore.csproj.AssemblyReference.cache
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\petstore.dll.config
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\petstore.dll
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\petstore.pdb
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\Antlr3.Runtime.dll
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\CKFinder.dll
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\Microsoft.Web.Infrastructure.dll
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\Newtonsoft.Json.dll
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\PagedList.dll
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\PagedList.Mvc.dll
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.Helpers.dll
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.Mvc.dll
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.Optimization.dll
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.Razor.dll
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.WebPages.Deployment.dll
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.WebPages.dll
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.WebPages.Razor.dll
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\WebGrease.dll
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\CKFinder.pdb
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\PagedList.xml
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\PagedList.Mvc.xml
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.Helpers.xml
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.Mvc.xml
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.Optimization.xml
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.Razor.xml
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.WebPages.xml
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.WebPages.Deployment.xml
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.WebPages.Razor.xml
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\Newtonsoft.Json.xml
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\Antlr3.Runtime.pdb
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\obj\Debug\petstore.csproj.CoreCompileInputs.cache
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\obj\Debug\petstore.dll
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\obj\Debug\petstore.pdb
+D:\backup\desktop\web ql thu cung mvc\petstoretest\petstore\petstore\obj\Debug\petstore.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\petstore.dll.config
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\petstore.dll
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\petstore.pdb
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\Antlr3.Runtime.dll
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\CKFinder.dll
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\PagedList.dll
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\PagedList.Mvc.dll
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.Helpers.dll
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.Mvc.dll
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.Optimization.dll
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.Razor.dll
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.WebPages.dll
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\WebGrease.dll
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\CKFinder.pdb
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\PagedList.xml
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\PagedList.Mvc.xml
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.Helpers.xml
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.Mvc.xml
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.Optimization.xml
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.Razor.xml
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.WebPages.xml
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\bin\Antlr3.Runtime.pdb
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\obj\Debug\petstore.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\obj\Debug\petstore.dll
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\obj\Debug\petstore.pdb
+C:\Users\Administrator\Desktop\web ql thu cung mvc\petstoretest\petstore\petstore\obj\Debug\petstore.csproj.AssemblyReference.cache

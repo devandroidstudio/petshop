@@ -1,0 +1,30 @@
+﻿@model petstore.Models.KhachHang
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Create</h2>
+<form action="/Test/Create" method="post" enctype="multipart/form-data">
+
+    <div class="form-group">
+
+        <input type="hidden" class="form-control" id="nhanvien_id" name="nhanvien_id" disabled />
+
+
+        <div class="form-group">
+
+            <input type="file" id="uploadhinh" name="uploadhinh" accept="image/*" />
+
+            <input type="file" id="uploadhinh1" name="uploadhinh1" accept="image/*" />
+
+            <input type="file" id="uploadhinh2" name="uploadhinh2" accept="image/*" />
+           
+         
+        </div>
+
+    <button class="btn btn-primary" type="submit"> Lưu </button>
+
+
+</form>

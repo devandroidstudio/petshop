@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="petstoreConnectionString-Web.config Connection String" description="petstoreConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=SQL5109.site4now.net;Initial Catalog=db_a889b9_petstore;User ID=db_a889b9_petstore_admin;Password=123456789Abc" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Administrator\\Downloads\\final\\New\ folder\\petstoretest\\petstore\\petstore\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='petstoreConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="MyData-Web.config Connection String" description="MyData Connection String used in web.config by the application to access the database." defaultValue="Data Source=SQL5109.site4now.net;Initial Catalog=db_a889b9_petstore;User ID=db_a889b9_petstore_admin;Password=123456789Abc" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Administrator\\Downloads\\final\\New\ folder\\petstoretest\\petstore\\petstore\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MyData']/@connectionString" />
+  </parameter>
+  <parameter name="petstoreConnectionString1-Web.config Connection String" description="petstoreConnectionString1 Connection String used in web.config by the application to access the database." defaultValue="Data Source=SQL5109.site4now.net;Initial Catalog=db_a889b9_petstore;User ID=db_a889b9_petstore_admin;Password=123456789Abc" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Administrator\\Downloads\\final\\New\ folder\\petstoretest\\petstore\\petstore\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='petstoreConnectionString1']/@connectionString" />
+  </parameter>
+  <parameter name="petstoreEntities-Web.config Connection String" description="petstoreEntities Connection String used in web.config by the application to access the database." defaultValue="Data Source=SQL5109.site4now.net;Initial Catalog=db_a889b9_petstore;User ID=db_a889b9_petstore_admin;Password=123456789Abc" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Administrator\\Downloads\\final\\New\ folder\\petstoretest\\petstore\\petstore\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='petstoreEntities']/@connectionString" />
+  </parameter>
+  <parameter name="petstoreConnectionString2-Web.config Connection String" description="petstoreConnectionString2 Connection String used in web.config by the application to access the database." defaultValue="Data Source=SQL5109.site4now.net;Initial Catalog=db_a889b9_petstore;User ID=db_a889b9_petstore_admin;Password=123456789Abc" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Administrator\\Downloads\\final\\New\ folder\\petstoretest\\petstore\\petstore\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='petstoreConnectionString2']/@connectionString" />
+  </parameter>
+  <parameter name="petstoreConnectionString3-Web.config Connection String" description="petstoreConnectionString3 Connection String used in web.config by the application to access the database." defaultValue="Data Source=SQL5109.site4now.net;Initial Catalog=db_a889b9_petstore;User ID=db_a889b9_petstore_admin;Password=123456789Abc" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Administrator\\Downloads\\final\\New\ folder\\petstoretest\\petstore\\petstore\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='petstoreConnectionString3']/@connectionString" />
+  </parameter>
+  <parameter name="Model1-Web.config Connection String" description="Model1 Connection String used in web.config by the application to access the database." defaultValue="Data Source=SQL5109.site4now.net;Initial Catalog=db_a889b9_petstore;User ID=db_a889b9_petstore_admin;Password=123456789Abc" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Administrator\\Downloads\\final\\New\ folder\\petstoretest\\petstore\\petstore\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Model1']/@connectionString" />
+  </parameter>
+  <parameter name="Model11-Web.config Connection String" description="Model11 Connection String used in web.config by the application to access the database." defaultValue="Data Source=SQL5109.site4now.net;Initial Catalog=db_a889b9_petstore;User ID=db_a889b9_petstore_admin;Password=123456789Abc" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Administrator\\Downloads\\final\\New\ folder\\petstoretest\\petstore\\petstore\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Model11']/@connectionString" />
+  </parameter>
+  <parameter name="rateConnectionString-Web.config Connection String" description="rateConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=SQL5109.site4now.net;Initial Catalog=db_a889b9_petstore;User ID=db_a889b9_petstore_admin;Password=123456789Abc" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Administrator\\Downloads\\final\\New\ folder\\petstoretest\\petstore\\petstore\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='rateConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
